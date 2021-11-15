@@ -1,0 +1,39 @@
+header {
+  background-color: #333333;
+  margin: 0;
+  padding: 3px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  padding: 12px;
+}
+
+li {
+  display: inline;
+}
+
+ul {
+  margin-left: -34px;
+}
+
+p {
+  column-count: 4;
+  column-rule: 3px double black;
+}
+
+main {
+  height: auto;
+  width: auto;
+  background-color: #F1F1F1;
+  padding: 20px 0px 20px 20px;
+  box-shadow: -3px 3px 3px #DCDCDC;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  height: 50px;
+}
